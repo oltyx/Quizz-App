@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+    <!--This is the title and the subject of questions.-->
+    <string name="title">Computing history</string>
+    <!--This is the first question.-->
+    <string name="first_question">1) When was the word \"computer\" first used?</string>
+    <!--These are the answers for question 1 -->
+    <!--Question1:Answer1-->
+    <string name="first_question_answer_1">1750</string>
+    <!--Question1:Answer2-->
+    <string name="first_question_answer_2">1800</string>
+    <!--Question1:Answer3-->
+    <string name="first_question_answer_3">1613</string>
+    <!--Question1:Answer4-->
+    <string name="first_question_answer_4">1900</string>
+    <!--This is the second question.-->
+    <string name="second_question">2) Which of these was the first mechanical computer?</string>
+    <!--These are the answers for question 2 -->
+    <!--Question2:Answer1-->
+    <string name="second_question_answer_1">ENIAC</string>
+    <!--Question2:Answer2-->
+    <string name="second_question_answer_2">Atanasoff-Berry Computer</string>
+    <!--Question2:Answer3-->
+    <string name="second_question_answer_3">Colossus</string>
+    <!--Question2:Answer4-->
+    <string name="second_question_answer_4">Analytical Engine</string>
+    <!--This is the third question-->
+    <string name="third_question">3) Which of these was the first digital computer?</string>
+    <!--These are the answers for question 3 -->
+    <!--Question3:Answer1-->
+    <string name="third_question_answer_1">ENIAC</string>
+    <!--Question3:Answer2-->
+    <string name="third_question_answer_2">Macintosh</string>
+    <!--Question3:Answer3-->
+    <string name="third_question_answer_3">Dell PC</string>
+    <!--Question3:Answer4-->
+    <string name="third_question_answer_4">HP PC</string>
+    <!--This is the fourth question-->
+    <string name="fourth_question">4) Which of these was the first stored computer program?</string>
+    <!--This is the fifth question-->
+    <string name="fifth_question">5) Which of these was the first computer with RAM?</string>
+    <!--These are the answers for question 5 -->
+    <!--Question5:Answer1-->
+    <string name="fifth_question_answer_1">Playstation</string>
+    <!--Question5:Answer2-->
+    <string name="fifth_question_answer_2">Whirlwind machine</string>
+    <!--Question5:Answer3-->
+    <string name="fifth_question_answer_3">GameCube</string>
+    <!--Question5:Answer4-->
+    <string name="fifth_question_answer_4">XBOX</string>
+    <!--This is the sixth question-->
+    <string name="sixth_question">6) Which of these was the first microprocessor?</string>
+    <!--These are the answers for question 6 -->
+    <!--Question6:Answer1-->
+    <string name="sixth_question_answer_1">Intel Core Duo</string>
+    <!--Question6:Answer2-->
+    <string name="sixth_question_answer_2">AMD Athlon 64</string>
+    <!--Question6:Answer3-->
+    <string name="sixth_question_answer_3">Intel 4004</string>
+    <!--Question6:Answer4-->
+    <string name="sixth_question_answer_4">Intel I7</string>
+    <!--This is the seventh question-->
+    <string name="seventh_question">7) Which of these was the first personal computer?</string>
+    <!--These are the answers for question 7-->
+    <!--Question7:Answer1-->
+    <string name="seventh_question_answer_1">Altair 8800</string>
+    <!--Question7:Answer2-->
+    <string name="seventh_question_answer_2">Macintosh</string>
+    <!--Question7:Answer3-->
+    <string name="seventh_question_answer_3">PC One</string>
+    <!--Question7:Answer4-->
+    <string name="seventh_question_answer_4">Dell PC</string>
+    <!--This is the eighth question-->
+    <string name="eighth_question">8) Which of these are computer companies?</string>
+    <!--These are the answers for question 8-->
+    <!--Question8:Answer1-->
+    <string name="eighth_question_answer_1">Toshiba</string>
+    <!--Question8:Answer2-->
+    <string name="eighth_question_answer_2">Hewlett Packard</string>
+    <!--Question8:Answer3-->
+    <string name="eighth_question_answer_3">Colgate</string>
+    <!--Question8:Answer4-->
+    <string name="eighth_question_answer_4">Dell</string>
+    <!--Button result text-->
+    <string name="submit_button">Results</string>
+    <!--Reset button text-->
+    <string name="reset_button">Reset</string>
+    <!--Edit text hint for first stored computer program-->
+    <string name="first_program">Enter here the name:</string>
+</resources>
