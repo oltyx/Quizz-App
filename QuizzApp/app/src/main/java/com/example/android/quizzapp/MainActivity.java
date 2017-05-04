@@ -40,9 +40,8 @@ public class MainActivity extends AppCompatActivity {
         //This is the correctAnswer for question 4.
         String correctAnswer = "ERA 1101";
         if (textField.getText().toString().contains(correctAnswer))
-            return true;
-        else
-            return false;
+            return true;        
+        return false;
     }
 
     /**
@@ -107,7 +106,12 @@ public class MainActivity extends AppCompatActivity {
      * This method shows a toast with the final result of quiz.
      */
     public void makeToast() {
-        Toast resultMessage = Toast.makeText(getApplicationContext(), "Your result is:" + correctAnswers + "/8", Toast.LENGTH_SHORT);
+       Toast resultMessage;
+        if (correctAnswers == 8) {
+            resultMessage = Toast.makeText(getApplicationContext(), "Awesome!!!", Toast.LENGTH_SHORT);
+        } else {
+            resultMessage = Toast.makeText(getApplicationContext(), "Your result is:" + correctAnswers + "/8", Toast.LENGTH_SHORT);
+        }
         resultMessage.show();
     }
 
