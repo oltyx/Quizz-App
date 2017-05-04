@@ -41,7 +41,8 @@ public class MainActivity extends AppCompatActivity {
         String correctAnswer = "ERA 1101";
         if (textField.getText().toString().contains(correctAnswer))
             return true;
-        return false;
+        else
+            return false;
     }
 
     /**
